@@ -1,0 +1,6 @@
+# Set flutter.sdk to your Flutter SDK path after installing Flutter.
+# Example: flutter.sdk=C:\\flutter
+flutter.sdk=
+flutter.buildMode=debug
+flutter.versionName=1.0.0
+flutter.versionCode=1
